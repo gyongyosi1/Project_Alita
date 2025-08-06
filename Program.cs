@@ -89,7 +89,6 @@ public class Alita
                 break;
 
             string response = Alita.GetResponse(userInput).Result;
-            //Console.WriteLine("Response: " + response);
         }
        
     }
