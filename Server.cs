@@ -22,7 +22,7 @@ namespace syscom
 		private static ProgressBar progress;
 		private static long totalmsg;
 
-		public static void TESTING()
+		public static void start()
 		{
 			_encrypt = false;
 			_compress = false;
