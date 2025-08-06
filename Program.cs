@@ -78,7 +78,7 @@ public class Alita
     public static void Main(string[] args)
     {
         Alita alita = new Alita();
-        Server.TESTING();
+        Server.start();
         while (true)
         {
             Console.Write(">> ");
