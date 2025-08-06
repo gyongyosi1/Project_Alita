@@ -77,8 +77,6 @@ public class Alita
     }
     public static void Main(string[] args)
     {
-        //AUXILIARY
-        //Server S = new Server();
         Alita alita = new Alita();
         Server.TESTING();
         while (true)
